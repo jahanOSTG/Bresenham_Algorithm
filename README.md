@@ -36,6 +36,6 @@ For each step, the next point \( (X{k+1}, Y{k+1}) \) is determined based on the 
 ### Step 4: Repeat Until the End Point is Reached
 Keep repeating Step 3 until the endpoint \( (Xn, Yn) \) is reached or the number of iterations equals \( (ΔX - 1) \).
 
-
+[Click here for details](https://drive.google.com/file/d/17DK-4V9pnQyP7bGO4HJmtC0XdK5cv0TM/view?usp=drive_link)
 
 
